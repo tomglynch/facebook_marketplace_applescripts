@@ -1,1 +1,1 @@
-# facebook_marketplace_applescripts
+# fb_marketplace_applescripts
